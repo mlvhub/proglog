@@ -1,4 +1,4 @@
-module github.com/mlvub/proglog
+module github.com/mlvhub/proglog
 
 go 1.14
 
